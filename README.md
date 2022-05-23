@@ -15,7 +15,7 @@ with document databases is that it uses any RDBMS to store them, which gives you
 like transactions, replication, reporting, ... But the main advantage might be that there is no magic involved, it's pure SQL.
 
 A video about YesSql was recorded and is available here https://www.youtube.com/watch?v=D42eK6CJjF4 
-
+ 
 FAQ
 -------------------
 
